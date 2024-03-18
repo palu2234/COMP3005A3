@@ -18,4 +18,4 @@ Compilation and running:
 - Ensure that you change the url, user, and password variables in the dbms.java file to your own settings for your own personal database you are using
 - Click Run in the IDE, the IDE will automatically compile and run the program.
 
-URL to view video: https://mediaspace.carleton.ca/media/COMP3005+A3+Q1/1_aoqzimqk
+URL to view video: https://mediaspace.carleton.ca/media/COMP+3005+A3+Q1/1_eidy286g
